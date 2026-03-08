@@ -24,7 +24,16 @@ To handle sensitive safety data, I chose a stack that prioritizes speed and cryp
 ---
 
 ## 📽️ Demo
-![Demo](assets/Grabación de pantalla desde 2026-03-08 02-30-11.webm)
+
+## 📽️ Demo
+
+<div align="center">
+  <video src="assets/Grabación de pantalla desde 2026-03-08 02-30-11.webm" width="800" controls autoplay loop muted>
+    Tu navegador no soporta el formato de video.
+  </video>
+  <p><em>Visualización de la propagación de alertas en la Red de Confianza 3D.</em></p>
+</div>
+
 > **Note:** The 3D sphere represents the community. When a node turns red, it’s not just data; it’s a real-time alert rippling through a support system.
 
 ---
@@ -116,6 +125,7 @@ Contributions are welcome! If you want to help make this network stronger:
 📄 License
 
 MIT License – Created with the belief that technology should be a tool for collective liberation and safety.
+
 
 
 
