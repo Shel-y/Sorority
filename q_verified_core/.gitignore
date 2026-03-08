@@ -1,0 +1,7 @@
+/target
+# Rust: Ignorar la carpeta de compilación (MUY IMPORTANTE)
+/target/
+
+# Archivos temporales de edición
+**/*.rs.bk
+Cargo.lock

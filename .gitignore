@@ -1,0 +1,8 @@
+# Ignorar configuraciones de VS Code o editores
+.vscode/
+.history/
+*.log
+
+# No subir la librería compilada directamente en la raíz de Flutter 
+# (la que moviste manualmente), ya que se debe generar al compilar.
+alert_sim_app/alert_app/libq_verified_core.so
