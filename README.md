@@ -26,7 +26,7 @@ To handle sensitive safety data, I chose a stack that prioritizes speed and cryp
 ## 📽️ Demo
 
 <div align="center">
-  <video src="assets/demo.webm" width="800" controls autoplay loop muted>
+  <video src="https://github.com/Shel-y/Sorority/assets/demo.webm" width="800" controls autoplay loop muted>
     Tu navegador no soporta el formato de video.
   </video>
   <p><em>Visualización de la propagación de alertas en la Red de Confianza 3D.</em></p>
@@ -123,6 +123,7 @@ Contributions are welcome! If you want to help make this network stronger:
 📄 License
 
 MIT License – Created with the belief that technology should be a tool for collective liberation and safety.
+
 
 
 
