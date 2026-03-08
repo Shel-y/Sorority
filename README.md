@@ -25,8 +25,6 @@ To handle sensitive safety data, I chose a stack that prioritizes speed and cryp
 
 ## 📽️ Demo
 
-## 📽️ Demo
-
 <div align="center">
   <video src="assets/Grabación de pantalla desde 2026-03-08 02-30-11.webm" width="800" controls autoplay loop muted>
     Tu navegador no soporta el formato de video.
@@ -125,6 +123,7 @@ Contributions are welcome! If you want to help make this network stronger:
 📄 License
 
 MIT License – Created with the belief that technology should be a tool for collective liberation and safety.
+
 
 
 
