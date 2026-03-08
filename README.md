@@ -73,7 +73,7 @@ To handle sensitive safety data, I chose a stack that prioritizes speed and cryp
     Ensure the libq_verified_core.so is in the path defined in rust_bridge.dart.
 
 📂 Project Structure
-Plaintext
+```Plaintext
 
 Sorority/
 ├─ alert_sim_app/      # Flutter UI + animations
@@ -88,7 +88,7 @@ Sorority/
 │  │  ├─ simulation.rs # Core logic
 │  └─ Cargo.toml
 └─ README.md
-
+```
 🔮 Future Improvements
 
     [ ] Multi-platform: Add support for Windows, macOS, and Android (ARM64).
@@ -116,3 +116,4 @@ Contributions are welcome! If you want to help make this network stronger:
 📄 License
 
 MIT License – Created with the belief that technology should be a tool for collective liberation and safety.
+
